@@ -1,8 +1,8 @@
 In main.java
 
 // Step 1:
-        // Uncomment this part to generate the c code
 
+        // Uncomment this part to generate the c code
         /*
         injection d = new injection(tokens);
         T.walk(d,tree);
